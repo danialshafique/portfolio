@@ -22,7 +22,7 @@ const Typescript = () => {
           <Link href="https://github.com/UmmeHabiba1312/simple-command-line-calculator" target="_blank" rel="noopener noreferrer">code</Link>
           </div> 
           </div>
-      <div className='  h-[300px] mt-10'>
+      <div className='h-[300px] mt-10'>
         <div>
           <Image
         className="h-[300px] bg-cover rounded-[10px] hover:shadow-xl hover:shadow-gray-500"
