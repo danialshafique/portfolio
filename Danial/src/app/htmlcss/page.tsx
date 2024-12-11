@@ -1,11 +1,11 @@
-// import React from 'react'
-// import Image from 'next/image'
-// import Link from 'next/link'
+import React from 'react'
+import Image from 'next/image'
+import Link from 'next/link'
 
 
 
 const HtmlCss = () => {
-  return (
+  // return (
   //  <main className="animate-fadeIn h-auto w-[100vw] lg:pb-96 pb-[1300px]">
     {/* <div className='h-auto'> */}
       {/* <h1 className='text-center font-extrabold mt-10 text-2xl'>{'< Html/ Css/ JavaScript />'}</h1> */}
@@ -86,7 +86,7 @@ const HtmlCss = () => {
       {/* </div> */}
     {/* // </div> */}
   //  </main>
-  )
+  // )
 }
 
 export default HtmlCss
