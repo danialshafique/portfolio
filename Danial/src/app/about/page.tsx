@@ -24,7 +24,7 @@ const About = () => {
     <div className='w-full md:w-[60%] pt-20 pl-6 md:pl-10'>
       <p className='font-bold text-black text-[20px] md:text-[22px] mt-2 md:mt-3 lg:mt-4'>ABOUT ME</p>
       <h1 className='lg:text-[38px] font-bold sm:mt-6 mt-3 text-2xl'>Top Rated <span className='text-pink-800'>Full-Stack Developer</span></h1>
-      <p className='text-gray-600 font-semibold sm:mt-12 mt-6 text-[16px] md:text-[17px]'>I am Umm e Habiba, a Full-Stack Developer with expertise in Next.js, TypeScript, and <br /> Tailwind CSS. I create dynamic web applications that deliver seamless user experiences, <br /> driven by a passion for problem-solving and continuous learning.</p>
+      <p className='text-gray-600 font-semibold sm:mt-12 mt-6 text-[16px] md:text-[17px]'>I am Danial Shafique, a Full-Stack Developer with expertise in Next.js, TypeScript, and <br /> Tailwind CSS. I create dynamic web applications that deliver seamless user experiences, <br /> driven by a passion for problem-solving and continuous learning.</p>
       {/* icon dives */}
       <div className='mt-10'>        
         <div className='flex flex-col md:flex-row md:gap-10 gap-6'>
