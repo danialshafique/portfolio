@@ -58,7 +58,7 @@ const About = () => {
       <div className="mt-10 max-w-4xl mx-auto bg-white shadow-md rounded-lg p-6 text-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:shadow-lg animate-fade-in-up">
         <h3 className="text-xl font-bold text-pink-800">Bachelors Degree in Computer Science</h3>
         <ul className="text-gray-600 mt-2  list-none">
-          <li className='text-xl font-bold text-gray-800'>GC Unversity Of Faisalabad</li>
+          <li className='text-xl font-bold text-gray-800'>GC Unversity of Faisalabad</li>
           <li  className=' font-bold text-gray-500'>{'2022 - 2026 (Ongoing)'}</li>
         </ul>
       </div>

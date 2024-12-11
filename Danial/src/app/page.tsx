@@ -33,7 +33,7 @@ const Home = () => (
           </div>
           <p className="text-gray-800 font-semibold md:font-semibold flex lg:pl-0  lg:text-[18px] md:text-[18px] text-[16px]  pt-5">
             I am Danial Shafique, a Front-End Web Developer skilled in Html, CSS, JavaScript, <br />{" "}
-            Bootstrape, and Tailwind CSS. I create efficient, seamless <br />{" "}
+            Bootstrape, and Tailwind CSS. I create efficient, seamless <br/> {" "}
             web experiences from design to deployment.
           </p>
           {/* button */}
