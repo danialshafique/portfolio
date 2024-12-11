@@ -70,7 +70,7 @@ const Contact = () => {
         </span>
         <div className='text-gray-200 pt-2'>
           <p>Phone:</p>
-          <p>0307-2502073</p>
+          <p>0316-0684398</p>
         </div>
       </div>
       {/* Email */}
@@ -80,7 +80,7 @@ const Contact = () => {
         </span>
         <div className='text-gray-200 pt-2'>
           <p>Email:</p>
-          <p>UmmeHabiba1312</p>
+          <p>danialshafique335@gmail.com</p>
         </div>
       </div>
       {/* Address */}
@@ -90,7 +90,7 @@ const Contact = () => {
         </span>
         <div className='text-gray-200 pt-2'>
           <p>Address:</p>
-          <p>Malir, Karachi Pakistan</p>
+          <p>Faisalabad, Punjab Pakistan</p>
         </div>
       </div>
       {/* Icons */}

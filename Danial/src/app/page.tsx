@@ -25,15 +25,15 @@ const Home = () => (
           <div className="  flex text-pink-800 lg:text-4xl xl:text-5xl md:text-5xl text-3xl font-bold   pt-5">
             <Typewriter
               options={{
-                strings: ["Umm e Habiba","Full-Stack Developer"],
+                strings: ["Danial Shafique","Front-End Web Developer"],
                 autoStart: true,
                 loop: true,
               }}
             />
           </div>
           <p className="text-gray-800 font-semibold md:font-semibold flex lg:pl-0  lg:text-[18px] md:text-[18px] text-[16px]  pt-5">
-            I am Umm e habiba, a full stack developer skilled in Next.js, <br />{" "}
-            TypeScript, and Tailwind CSS. I create efficient, seamless <br />{" "}
+            I am Danial Shafique, a Front-End Web Developer skilled in Html, CSS, JavaScript, <br />{" "}
+            Bootstrape, and Tailwind CSS. I create efficient, seamless <br />{" "}
             web experiences from design to deployment.
           </p>
           {/* button */}
@@ -61,7 +61,7 @@ const Home = () => (
             <div className=" flex pt-6  lg:gap-3 md:gap-2 lg:pl-4 md:pl-4 sm:pl-2 sm:gap-2  justify-center">
               <div className="md:text-[39px] text-[40px] text-black hover:text-blue-400">
                 <Link
-                  href="https://www.facebook.com/profile.php?id=61561757791609"
+                  href=""
                   legacyBehavior
                 >
                   <a target="_blank" rel="noopener noreferrer">
@@ -70,7 +70,7 @@ const Home = () => (
                 </Link>
               </div>
               <div className="md:text-[39px] text-[40px] text-black hover:text-gray-700">
-                <Link href="https://x.com/UmmeHabiba1312" legacyBehavior>
+                <Link href="" legacyBehavior>
                   <a target="_blank" rel="noopener noreferrer">
                     <FaSquareXTwitter />
                   </a>
@@ -78,7 +78,7 @@ const Home = () => (
               </div>
               <div className="md:text-[39px] text-[40px] text-black hover:text-blue-700">
                 <Link
-                  href="https://www.linkedin.com/in/umm-e-habiba-86bb722b6/"
+                  href="https://www.linkedin.com/in/danial-shafique-118a71248/"
                   legacyBehavior
                 >
                   <a target="_blank" rel="noopener noreferrer">
@@ -88,7 +88,7 @@ const Home = () => (
               </div>
               <div className="md:text-[39px] text-[40px] text-black hover:text-gray-600">
                 <Link
-                  href="https://github.com/UmmeHabiba1312"
+                  href="https://github.com/danialshafique/portfolio"
                   legacyBehavior
                 >
                   <a target="_blank" rel="noopener noreferrer">
@@ -128,7 +128,7 @@ const Home = () => (
             className=" h-[500px] md:w-[300px]  lg:w-[300px] xl:w-[300px]  sm:w-[290px] w-[270px] justify-center pl-5  text-center"
             height={500}
             width={500}
-            src="/heroin.png"
+            src="/dani.png"
             alt="profile pic"
           />
           

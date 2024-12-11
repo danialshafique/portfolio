@@ -11,7 +11,7 @@ const Services = () => {
     <main className='bg-pink-50  max-w-screen-2xl mx-auto h-auto  animate-fadeIn w-full overflow-hidden'>
         <div className=' text-center pt-10 h-auto'>
             <h2 className='text-4xl  font-bold text-gray-900'>See My <span className='text-pink-800 text-3xl sm:text-3xl font-bold '>Projects</span></h2>
-            <p className='text-gray-500 font-sans mt-5 text-[18px] font-semibold'>I specialize in web development, creating responsive websites and apps with Next.js, TypeScript, <br /> and Tailwind CSS for clean code and great user experiences.</p>
+            <p className='text-gray-500 font-sans mt-5 text-[18px] font-semibold'>I specialize in web development, creating responsive websites and apps with HTMl, CSS React.js, <br /> Bootstrape, and Tailwind CSS for clean code and great user experiences.</p>
 
             <div className='grid lg:grid-cols-2 grid-cols-1 xl:mx-36 lg:mx-40 md:mx-[260px] mx-11 sm:mx-32  gap-10 mt-12 '>
               {/* one */}
@@ -21,10 +21,10 @@ const Services = () => {
                 className=""
                 height={500}
                 width={500}
-                src="/service-1.PNG"
+                src="/service13.jpg"
                 alt="Img"/>
                 <Image
-                className=""
+                className="" 
                 height={500}
                 width={500}
                 src="/service-4.PNG"
