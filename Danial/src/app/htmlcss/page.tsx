@@ -5,8 +5,8 @@ import Link from 'next/link'
 
 
 const HtmlCss = () => {
-  // return (
-  //  <main className="animate-fadeIn h-auto w-[100vw] lg:pb-96 pb-[1300px]">
+  return (
+   <main className="animate-fadeIn h-auto w-[100vw] lg:pb-96 pb-[1300px]">
     {/* <div className='h-auto'> */}
       {/* <h1 className='text-center font-extrabold mt-10 text-2xl'>{'< Html/ Css/ JavaScript />'}</h1> */}
       {/* <div className='grid lg:grid-cols-2 grid-cols-1 lg:mx-48 mx-20 sm:mx-40 md:mx-56 gap-10 h-[400px] mt-10'> */}
@@ -83,10 +83,10 @@ const HtmlCss = () => {
             </div>
           </div>
         </div> */}
-      {/* </div> */}
-    {/* // </div> */}
-  //  </main>
-  // )
+      </div>
+    // </div>
+   </main>
+  )
 }
 
 export default HtmlCss
