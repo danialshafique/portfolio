@@ -100,17 +100,17 @@ const Contact = () => {
             <FaFacebookSquare />
           </a>
         </Link>
-        <Link href="https://x.com/UmmeHabiba1312" legacyBehavior>
+        <Link href="" legacyBehavior>
           <a target="_blank" rel="noopener noreferrer">
             <FaSquareXTwitter />
           </a>
         </Link>
-        <Link href="https://www.linkedin.com/in/umm-e-habiba-86bb722b6/" legacyBehavior>
+        <Link href="" legacyBehavior>
           <a target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </a>
         </Link>
-        <Link href="https://www.instagram.com/umm_e_habiba_official5/" legacyBehavior>
+        <Link href="" legacyBehavior>
           <a target="_blank" rel="noopener noreferrer">
             <FaSquareInstagram />
           </a>

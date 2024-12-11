@@ -4,11 +4,11 @@ import React from 'react';
 
 const Skills = () => {
   const skills = [
-    { name: 'Next.js', percentage: '75%' },
-    { name: 'TypeScript', percentage: '80%' },
-    { name: 'JavaScript', percentage: '85%' },
-    { name: 'Tailwind CSS', percentage: '85%' },
-    { name: 'HTML/Css', percentage: '85%' },
+    { name: 'HTML', percentage: '95%' },
+    { name: 'CSS', percentage: '80%' },
+    { name: 'JavaScript', percentage: '75%' },
+    { name: 'React.js', percentage: '70%' },
+    { name: 'Tailwind CSS/Bootstrape', percentage: '70%' },
   ];
 
   return (
@@ -20,7 +20,7 @@ const Skills = () => {
             My <span className="text-pink-800 pl-4">Skills</span>
           </h3>
           <p className="pt-8 text-gray-500 font-medium flex justify-center mx-4 lg:mx-[14rem] text-[16px] sm:text-[17px]">
-            I am a full stack developer skilled in Next.js, TypeScript, and Tailwind CSS. I build dynamic, 
+            I am a Front-end Web developer skilled in Html, Css, JavaScript, React.js, Bootstrape and Tailwind CSS. I build dynamic, 
             <br /> responsive web apps with clean, efficient code, focusing on seamless user experiences.
           </p>
         </div>

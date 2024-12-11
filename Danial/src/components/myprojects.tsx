@@ -27,7 +27,7 @@ const Services = () => {
                 className="" 
                 height={500}
                 width={500}
-                src="/service-4.PNG"
+                src="/service-4.jpg"
                 alt="Img"/>
                 <Image
                 className=""
@@ -45,19 +45,19 @@ const Services = () => {
                 className=""
                 height={500}
                 width={500}
-                src="/service-11.PNG"
+                src="/service-2.jpg"
                 alt="Img"/>
                 <Image
                 className=""
                 height={500}
                 width={500}
-                src="/service-8.PNG"
+                src="/service-8.jpg"
                 alt="Img"/>
                 <Image
                 className=""
                 height={500}
                 width={500}
-                src="/service-10.PNG"
+                src="/service-10.jpg"
                 alt="Img"/>
                 
                 </div>
@@ -69,13 +69,13 @@ const Services = () => {
                 className=""
                 height={500}
                 width={500}
-                src="/service-3.PNG"
+                src="/service-3.jpg"
                 alt="Img"/>
                 <Image
                 className=""
                 height={500}
                 width={500}
-                src="/service-12.PNG"
+                src="/service-12.jpg"
                 alt="Img"/>
                 </div>
                 </div>
@@ -86,13 +86,13 @@ const Services = () => {
                 className=""
                 height={500}
                 width={500}
-                src="/service13.PNG"
+                src="/port.jpg"
                 alt="Img"/>
                 <Image
                 className=""
                 height={500}
                 width={500}
-                src="/service14.PNG"
+                src="/service-14.jpgs"
                 alt="Img"/>
                 </div>
                 </div>
