@@ -41,7 +41,7 @@ const Nextjs = () => {
              className='h-[130px] w-[380px] md:w-[400px] rounded-md'
             height={500}
             width={500}
-            src="/service-13.jpg"
+            src="/service13.jpg"
             alt="Image"/></div>
           <div className='md:ml-14 ml-4'><h3 className='text-gray-100 font-bold text-[16px]  md:text-[20px] lg:text-[25px]'>School</h3> <p className= ' text-gray-400 text-[14px] sm:text-[16px]'>I built a personal portfolio to showcase my skills intml, Css, javascript and Bootstrape, highlighting my commitment to clean design and seamless user experiences</p></div>
           <div className=' text-pink-800 text-4xl font-extrabold md:mr-8 mr-3 hover:text-gray-500'><Link href="https://csoftsystems.github.io/school/" target="_blank" rel="noopener noreferrer"><BsArrowUpRightCircle /></Link></div>
