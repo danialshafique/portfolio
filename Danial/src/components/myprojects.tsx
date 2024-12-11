@@ -75,13 +75,13 @@ const Services = () => {
                 className=""
                 height={500}
                 width={500}
-                src="/service-12.jpg"
+                src="/service-33.jpg"
                 alt="Img"/>
                 <Image
                 className=""
                 height={500}
                 width={500}
-                src="/service-33.jpg"
+                src="/service-12.jpg"
                 alt="Img"/>
                 </div>
                 </div>
