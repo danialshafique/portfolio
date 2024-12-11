@@ -7,7 +7,7 @@ const AboutMe = () => {
       <div className='pt-20 pb-20'>
         <h2 className='font-bold text-4xl text-pink-800'>About Me</h2>
         <p className='text-gray-600 px-6 md:px-20 lg:px-60 pt-7 text-lg'>
-          Hello! I am <span className='text-black font-semibold'>Danial Shafique</span>, a passionate full stack web developer.
+          Hello! I am <span className='text-black font-semibold'>Danial Shafique</span>, a passionate front-end web developer.
           I thrive on creating dynamic, responsive, and user-centric web-site, blending creativity with technical expertise.
           My journey in development has been fueled by a curiosity for continuous learning and a commitment to solving real-world
           problems through clean, efficient code.

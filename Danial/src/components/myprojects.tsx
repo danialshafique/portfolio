@@ -33,7 +33,7 @@ const Services = () => {
                 className=""
                 height={500}
                 width={500}
-                src="/service-5.PNG"
+                src="/service-5.jpg"
                 alt="Img"/>
 
                 </div>
@@ -77,6 +77,12 @@ const Services = () => {
                 width={500}
                 src="/service-12.jpg"
                 alt="Img"/>
+                <Image
+                className=""
+                height={500}
+                width={500}
+                src="/service-33.jpg"
+                alt="Img"/>
                 </div>
                 </div>
                 {/* four */}
@@ -92,7 +98,13 @@ const Services = () => {
                 className=""
                 height={500}
                 width={500}
-                src="/service-14.jpgs"
+                src="/service-14.jpg"
+                alt="Img"/>
+                <Image
+                className=""
+                height={500}
+                width={500}
+                src="/service-144.jpg"
                 alt="Img"/>
                 </div>
                 </div>
