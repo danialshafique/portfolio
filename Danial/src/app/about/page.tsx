@@ -10,9 +10,9 @@ const About = () => {
   <main className='max-w-screen-2xl mx-auto bg-gray-300 h-auto min-h-[100vh]  flex flex-col md:flex-row font-sans pt-6  w-full overflow-hidden animate-fadeIn'>
     {/* left div */}
     <div className='w-full md:w-[40%] pt-12 flex justify-center'>
-      <div className='h-[530px]  w-[350px] md:w-[450px] flex justify-center'>
+      <div className='h-[530px] rounded-full  bg-gray-900 w-[350px] md:w-[450px] flex justify-center'>
         <Image
-          className='h-[530px] w-[280px] '
+          className='h-[530px] w-[280px] rounded-full '
           height={500}
           width={500}
           src="/Dani.png"
