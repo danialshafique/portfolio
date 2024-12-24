@@ -59,7 +59,7 @@ const Footer = () => {
           <div className="text-gray-200 hover:border-b-[3px] hover:border-gray-200"><Link href="/contact">Contact</Link></div>
         </div>
       </div>
-        <div className='w-full overflow-hidden max-w-screen-2xl mx-auto h-[100px] bg-gray-900 justify-center text-center  lg:text-[16px] lg:font-semibold  text-slate-500 pt-5'>
+        <div className='w-full overflow-hidden max-w-screen-2xl mx-auto h-[100px] bg-white-900 justify-center text-center  lg:text-[16px] lg:font-semibold  text-slate-500 pt-5'>
         <p>Crafted with passion and precision by Danial Shafique.</p>
           <p>&copy; All Rights Reserved by <b>IT Hub</b></p>
         </div>
