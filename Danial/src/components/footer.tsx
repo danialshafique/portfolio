@@ -61,7 +61,7 @@ const Footer = () => {
       </div>
         <div className='w-full overflow-hidden max-w-screen-2xl mx-auto h-[100px] bg-gray-900 justify-center text-center  lg:text-[16px] lg:font-semibold  text-slate-500 pt-5'>
         <p>Crafted with passion and precision by Danial Shafique.</p>
-          <p>© All Rights Reserved by Danial Shafique</p>
+          <p>&copy; All Rights Reserved by <b>IT Hub</b></p>
         </div>
 
     </main>
