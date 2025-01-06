@@ -61,7 +61,7 @@ const Footer = () => {
       </div>
         <div className='w-full overflow-hidden max-w-screen-2xl mx-auto h-[100px] bg-gray-900 justify-center text-center  lg:text-[16px] lg:font-semibold  text-slate-500 pt-5'>
         <p>Crafted with passion and precision by Danial Shafique.</p>
-          <p>&copy; All Rights Reserved by <a style="text-decoration:none; font-size:50px;" href="https://www.upwork.com/freelancers/~01b1c8fcce7d6040eb">IT Hub</a></p>
+          <p>&copy; All Rights Reserved by <a  href="https://www.upwork.com/freelancers/~01b1c8fcce7d6040eb">IT Hub</a></p>
         </div>
 
     </main>
