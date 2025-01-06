@@ -65,7 +65,7 @@ const Header = () => {
               <SheetTrigger>
                 <GiHamburgerMenu className='text-white text-4xl' />
               </SheetTrigger>
-              <SheetContent className='bg-gray-400'>
+              <SheetContent className='bg-back-400'>
   {/* Navigation Links */}
   <div className="flex flex-col items-center">
     {['/', '/about', '/projects', '/skills', '/contact'].map((path, index) => (
