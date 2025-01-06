@@ -15,7 +15,7 @@ import Skills from "@/components/myskills";
 
 const Home = () => (
   <>
-    <main className="max-w-screen-2xl mx-auto font-sans bg-gradient-to-tr from-pink-200 to-gray-900 h-auto w-full overflow-x-hidden">
+    <main className="max-w-screen-2xl mx-auto font-sans bg-gradient-to-tr from-pink-900 to-gray-900 h-auto w-full overflow-x-hidden">
       <div className="lg:flex w-full lg:h-[500px] h-auto bg-gradient-to-tr from-pink-200 to-gray-600 lg:to-gray-900  overflow-hidden">
         {/* left div */}
         <div className="flex-1  lg:pt-20  h-auto w-full overflow-hidden pl-4 sm:pl-6 md:pl-20">
