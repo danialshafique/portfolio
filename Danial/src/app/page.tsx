@@ -125,13 +125,13 @@ const Home = () => (
               alt="css"
             />
           </div>
-          <Image
+          {/* <Image
             className=" h-[500px] md:w-[300px]  lg:w-[300px] xl:w-[300px]  sm:w-[290px] w-[270px] justify-center pl-5  text-center"
             height={500}
             width={500}
             src="/dani.png"
             alt="profile pic"
-          />
+          /> */}
           
           <div className="  pt-56 ">
             <Image
